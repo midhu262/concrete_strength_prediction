@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "concrete_strength_prediction"
 AUTHOR_USER_NAME = "midhu262"
-SRC_REPO = "concrete_strength_prediction"
+SRC_REPO = "concrete_strength"
 AUTHOR_EMAIL = "midhu262@gmail.com"
 
 

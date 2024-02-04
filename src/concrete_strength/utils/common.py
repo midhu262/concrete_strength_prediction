@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from concrete_strength_prediction import logger
+from concrete_strength import logger
 import json
 import joblib
 from ensure import ensure_annotations
